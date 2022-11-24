@@ -34,9 +34,6 @@ module.exports = {
           "sans-serif",
         ],
       },
-      letterSpacing: {
-        widest: ".7em",
-      },
     },
   },
   plugins: [],

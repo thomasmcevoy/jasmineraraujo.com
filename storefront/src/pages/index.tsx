@@ -9,8 +9,8 @@ const Home: NextPageWithLayout = () => {
   return (
     <>
       <Head
-        title="Jasmine R Araujo | Artist, Writer, Organizer"
-        description="Official website of artist, writer, and organizer Jasmine Araujo. Shop original artwork, read her fiction and nonfiction, learn which periodicals are publishing her work, tune in to political organizing, and more."
+        title="Home"
+        description="Shop all available models only at the ACME. Worldwide Shipping. Secure Payment."
       />
       <Hero />
       <FeaturedProducts />

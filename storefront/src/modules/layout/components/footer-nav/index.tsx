@@ -32,7 +32,7 @@ const FooterNav = () => {
             </ul>
           </div>
           <div className="flex flex-col gap-y-2">
-            <span className="text-base-semi">Social media</span>
+            <span className="text-base-semi">Medusa</span>
             <ul className="grid grid-cols-1 gap-y-2">
               <li>
                 <a
@@ -40,7 +40,7 @@ const FooterNav = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Instagram
+                  GitHub
                 </a>
               </li>
               <li>
@@ -49,7 +49,7 @@ const FooterNav = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Twitter
+                  Documentation
                 </a>
               </li>
               <li>
@@ -58,7 +58,7 @@ const FooterNav = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Facebook
+                  Source code
                 </a>
               </li>
             </ul>
